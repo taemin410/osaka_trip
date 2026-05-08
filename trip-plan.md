@@ -4,6 +4,19 @@
 
 ---
 
+## 🗺️ 루트맵
+
+루트맵 파일: [`route-map.html`](route-map.html) — 브라우저로 열면 보여요.
+
+```
+Day 1 (5/28 목)  ✈️ KIX ──🚃── 🏨 Aloft ──🚶── 🌆 Umeda ──🚶── 🍣 Omakase
+Day 2 (5/29 금)  🏨 ──🚇── 🛍️ Shinsaibashi ──🚶── 🥟 Kuromon ──🚶── 👕 Amemura ──🚶── 🌃 Dotonbori ──🚶── 🐟 Hitsumabushi
+Day 3 (5/30 토)  🏨 ──🚇── 🏯 Osaka Castle ──🚇── 🥞 Okonomiyaki ──🚶── 🍢 Shinsekai ──🚶── 🐔 or 🍢 Dinner
+Day 4 (5/31 일)  🏨 ──🚃── ✈️ KIX
+```
+
+---
+
 ## ✈️ 항공편 (HK Express)
 
 <details>

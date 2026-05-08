@@ -6,6 +6,9 @@
 
 ## ✈️ 항공편 (HK Express)
 
+<details>
+<summary>👆 클릭하여 항공편 정보 열기</summary>
+
 ### 출발 — 5/28 (목)
 | 구분 | 내용 |
 |---|---|
@@ -24,9 +27,14 @@
 | 기종 | Airbus A321neo (이코노미) |
 | 수하물 | 기내용만 포함 (체크인 없음) |
 
+</details>
+
 ---
 
 ## 🏨 호텔: Aloft by Marriott Osaka Dojima
+
+<details>
+<summary>👆 클릭하여 호텔 정보 열기</summary>
 
 | 항목 | 내용 |
 |---|---|
@@ -36,9 +44,14 @@
 | 평점 | ⭐ 9.1/10 |
 | 체크인 | 15:00 |
 
+</details>
+
 ---
 
 ## 🚇 KIX → 호텔 교통 옵션
+
+<details>
+<summary>👆 클릭하여 교통 정보 열기</summary>
 
 | 방법 | 시간 | 비용 | 설명 |
 |---|---|---|---|
@@ -48,6 +61,8 @@
 | 리무진 버스 | ~60분 | ¥1,800 | 오사카역 하차 |
 
 **팁:** HK Express는 T1 도착. JR Ticket Office에서 여권 제시하고 Haruka 외국인 할인권 구매 (¥1,800).
+
+</details>
 
 ---
 

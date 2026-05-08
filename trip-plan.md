@@ -6,7 +6,8 @@
 
 ## 🗺️ 루트맵
 
-루트맵 파일: [`route-map.html`](route-map.html) — 브라우저로 열면 보여요.
+> **브라우저에서 열기:** [**taemin410.github.io/osaka_trip/route-map.html**](https://taemin410.github.io/osaka_trip/route-map.html)
+> (Github에서 바로 보면 코드만 나와요 — raw 링크로 열면 SVG 맵이 보입니다)
 
 ```
 Day 1 (5/28 목)  ✈️ KIX ──🚃── 🏨 Aloft ──🚶── 🌆 Umeda ──🚶── 🍣 Omakase
